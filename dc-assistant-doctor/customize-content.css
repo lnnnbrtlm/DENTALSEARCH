@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&family=Roboto:wght@100;300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.header {
+    font-size: 50px;
+    color: #2666cf;
+    font-family: 'Staatliches', cursive;
+    margin-bottom: 20px;
+    line-height: 70px;
+  }
+  
+  .header-descripiton {
+    color: #2c3333;
+    margin-right: 150px;
+    line-height: 25px;
+    padding-bottom: 35px;
+  }

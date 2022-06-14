@@ -1,0 +1,93 @@
+body{
+    background-color: #dee4e7;
+}
+
+.temp {
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+    padding-left: 1px;
+    padding-right: 1px;
+    
+}
+
+.tooth {
+    height: 90px;
+    width: 40px
+}
+
+.num {
+    margin-left: 50px;
+
+}
+
+.bgimage {
+
+
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('img/hero.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+
+  .bgimage1 {
+
+
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('img/hero2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .bgimage2 {
+
+
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('img/hero1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  }
+
+td {
+      border: none;
+  }
+
+  th {
+      border: none;
+  }
+
+  table {
+      border: none;
+  }
+  .buttont {
+    background-color: #f8f9fa;
+    border: none;
+  }
+
+  .surface1 {
+      width: 20px;
+      height: 20px;
+      padding: 0;
+      margin: 0;
+      border: 0;
+  }
+
+  .surface {
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.uppert {
+    width: 10000px;
+}
+
+footer {
+    background-color: #212529;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
