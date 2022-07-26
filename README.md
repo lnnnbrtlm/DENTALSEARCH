@@ -1,5 +1,5 @@
 # DENTALSEARCH
-DENTALSEARCH is an Online Appointment and Patient Records Management System for Dental Clinics is a computerized system that stores and manages all of the clinic's patient records and information. It allows patients to select and book their preferred timetable from the system's options. It also allows the dental clinics to register their own clinic. Overall, the proposed approach provides a solution to several dental clinic issues. Patients and dental clinic will benefit from this system's efficiency and convenience. This will make it easier for patients to request appointments and check their transaction history at the dental clinic.
+DENTALSEARCH is an Online Appointment and Patient Records Management System for Dental Clinics is a computerized system that stores and manages all of the clinic's patient records and information. It allows patients to select and book their preferred timetable from the system's options. It also allows the dental clinics to register their own clinic. Overall, it provides a solution to several dental clinic issues. Patients and dental clinic will benefit from this system's efficiency and convenience. This will make it easier for patients to request appointments and check their transaction history at the dental clinic.
 
 
 Features:
